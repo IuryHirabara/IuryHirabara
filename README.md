@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iury Hirabara</h1>
 <h3 align="center">A Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iuryhirabara&label=Profile%20views&color=0e75b6&style=flat" alt="iuryhirabara" /> </p>
-
 - 📫 How to reach me **dev.iuryhirabara@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iuryhirabara/](https://www.linkedin.com/in/iuryhirabara/)
