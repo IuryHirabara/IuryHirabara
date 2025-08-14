@@ -93,3 +93,4 @@
 <img src="https://raw.githubusercontent.com/IuryHirabara/IuryHirabara/output/snake.svg" alt="Snake animation" />
 
 ###
+
