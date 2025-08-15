@@ -1,7 +1,9 @@
-<h2 align="left">Hi 👋! My name is Iury Hirabara and I'm a Full Stack Developer, from Brazil</h2>
+<h1 align="left">Hi 👋! My name is Iury Hirabara</h1>
+<h2 align="left">A Full Stack Developer from Brazil 👨‍💻</h2>
 
 ###
 
+<h3>Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IuryHirabara&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IuryHirabara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
@@ -14,6 +16,7 @@
 ###
 
 <div align="left">
+  <h3>Skills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
@@ -79,6 +82,7 @@
 
 ###
 
+<h3>Socials</h3>
 <div align="center">
   <a href="mailto:dev.iuryhirabara@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -92,6 +96,7 @@
 
 <br clear="both">
 
+<h3>Activity</h3>
 <img src="https://raw.githubusercontent.com/IuryHirabara/IuryHirabara/output/snake.svg" alt="Snake animation" />
 
 ###
