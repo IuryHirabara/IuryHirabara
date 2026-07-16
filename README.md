@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Iury Hirabara</h1>
+<h1 align="left">Hi there 👋! I'm Iury</h1>
 <h2 align="left">A Full Stack Developer from Brazil 👨‍💻</h2>
 
 ###
